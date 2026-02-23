@@ -33,11 +33,11 @@ Consolidar o vocabulário essencial de Banco de Dados, Big Data e Análise de Da
 9. **Pipeline de Dados**: sequência organizada de etapas de processamento em que os dados passam por coleta, validação, transformação e entrega. É um fluxo padronizado para garantir repetibilidade, qualidade e rastreabilidade.  
    Exemplo: ingestão diária de dados de vendas, limpeza automática e publicação no ambiente de BI.
 
-10. **ETL (Extract, Transform, Load)**: pipeline que extrai dados da origem, transforma para padronizar/limpar e depois carrega no destino analítico. É muito usado para alimentar Data Warehouses com dados prontos para consulta.  
-   Exemplo: consolidar ERP + CRM em um modelo único de BI.
+10. **ETL (Extract, Transform, Load)**: processo em que a transformação ocorre antes da carga final, entregando dados já limpos e padronizados no destino. É comum quando o ambiente de destino exige estrutura analítica pronta.  
+   Exemplo: consolidar ERP + CRM e carregar tabelas tratadas em um Data Warehouse.
 
-11. **ELT (Extract, Load, Transform)**: abordagem em que os dados são carregados primeiro e transformados no ambiente de destino. Aproveita processamento de plataformas analíticas modernas e facilita reprocessamentos.  
-   Exemplo: enviar dados brutos para lakehouse e transformar com SQL.
+11. **ELT (Extract, Load, Transform)**: processo em que os dados são carregados primeiro e transformados dentro da própria plataforma de destino, aproveitando seu poder de processamento. É útil para manter dados brutos e flexibilizar novas transformações.  
+   Exemplo: carregar dados no lakehouse e modelar visões analíticas com SQL.
 
 12. **KDD (Knowledge Discovery in Databases)**: processo completo para descobrir conhecimento útil em dados, incluindo seleção, limpeza, transformação, mineração e interpretação. Data mining é uma etapa dentro do KDD.  
    Exemplo: descobrir perfis de clientes com maior propensão de cancelamento.
