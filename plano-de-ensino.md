@@ -67,7 +67,7 @@ Todas as aulas serão realizadas em laboratório, permitindo trabalhar aspectos 
 
 Fórmula de cálculo:
 
-`NF = (AtivInd-1 * 0,25) + (AtivInd-2 * 0,25) + (AtivEq-1 * 0,2) + (AtivEq-1 * 0,2) + (PI * 0,1)`
+`NF = (AtivInd-1 * 0,25) + (AtivInd-2 * 0,25) + (AtivEq-1 * 0,2) + (AtivEq-2 * 0,2) + (PI * 0,1)`
 
 Observação do plano oficial: para estudantes que não realizam Projeto Integrador, a nota final será normalizada, distribuindo o ponto de PI, entre as atividades, de maneira proporcional.
 
