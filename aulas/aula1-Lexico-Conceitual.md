@@ -18,6 +18,11 @@ Consolidar o vocabulário essencial de Banco de Dados, Big Data e Análise de Da
 4. **NoSQL**: família de bancos não relacionais (documento, chave-valor, coluna, grafo) que priorizam flexibilidade de schema, distribuição e escalabilidade horizontal. É comum em cenários de alto volume e mudança frequente de estrutura de dados.  
    Exemplo: MongoDB (documento), Redis (chave-valor), Neo4j (grafo).
 
+**OLTP**: Online Transaction Processing Database. Bancos para suportar a operação de um negócio. 
+
+**OLAP**: Online Analytical Processing. Bancos de dados para análise e tomada de decisões (baseados em IA ou não)
+
+
 5. **Big Data**: contexto de dados com alto volume, variedade e velocidade (3Vs), muitas vezes estendido para veracidade e valor. Exige arquiteturas distribuídas para ingestão, processamento e análise em escala.  
    Exemplo: logs de milhões de acessos por dia em plataforma digital.
 
