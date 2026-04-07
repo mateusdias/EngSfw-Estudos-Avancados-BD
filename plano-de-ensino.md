@@ -61,8 +61,8 @@ Todas as aulas serão realizadas em laboratório, permitindo trabalhar aspectos 
 
 ### 5.2 Instrumentos de Avaliação
 
-- `AtivInd`: atividade prática individual (até 10 pontos).
-- `AtivEq`: atividade prática em equipe em formato de mini-projeto.
+- `AtivInd`: atividade prática individual.
+- `AtivEq`: atividade prática em equipe em formato de mini-projeto ou relatório. 
 - `PI`: Projeto Integrador (quando aplicável).
 
 Fórmula de cálculo:
